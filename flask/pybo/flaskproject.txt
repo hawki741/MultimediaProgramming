@@ -1,0 +1,7 @@
+venv\Scripts\activate
+
+set FLASK_APP=pybo
+
+set FLASK_ENV=development
+
+flask --app pybo run
